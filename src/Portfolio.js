@@ -22,7 +22,7 @@ function Experience() {
   return <div>Experience Content</div>;
 }
 
-function MyData() {
+function Portfolio() {
   return (
     <Router>
       <div style={{ height: "100vh" }}>
@@ -52,4 +52,4 @@ function MyData() {
   );
 }
 
-export default MyData;
+export default Portfolio;
